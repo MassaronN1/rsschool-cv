@@ -57,7 +57,7 @@ function popElement(arr){
 ## Education
 
 - intensive in ITology
-- College "Turan", Kazakhstan, Astana.
+- College "Turan", Kazakhstan, Astana. (computing and software)
 - Courses in code.basics
 
 ## Language
